@@ -1,4 +1,5 @@
-# playstoreReview
+# Playstore Reviewer 
+
 Automation for reading reviews of any app from playstore. 
 
 This automation fulfills the need of fetching playstore app's reviews. 
