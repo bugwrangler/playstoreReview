@@ -1,4 +1,4 @@
-# Playstore Reviewer 
+# Google Playstore Reviewer 
 
 Automation for reading reviews of any app from playstore. 
 
