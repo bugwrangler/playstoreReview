@@ -5,7 +5,7 @@ Automation for reading reviews of any app from playstore.
 This automation fulfills the need of fetching playstore app's reviews. 
 Run getReviews.py and enter package name of required app. 
 Package name can be directly fetched from playstore URL. 
-https://play.google.com/store/apps/details?id=<package-name>
+https://play.google.com/store/apps/details?id=<b>package-name</b>
 
 Syntax : 
 >python getReviews.py 
